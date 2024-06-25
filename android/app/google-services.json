@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813621682839",
+    "project_id": "bhairab-footwear-ecommerce",
+    "storage_bucket": "bhairab-footwear-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813621682839:android:b23d2ee97151b7bf83ffd2",
+        "android_client_info": {
+          "package_name": "eShop.multivendor.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_n-sHYZytnNPq6q6PLxRmGPTKY6raRPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
